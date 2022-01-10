@@ -1,2 +1,2 @@
 #Display the output
-print("Hello There!")
+print("Hey There!")
